@@ -15,8 +15,8 @@ Desenvolvedor apaixonado por tecnologia, código limpo e aprendizado constante. 
 
 ## 🧠 Atualmente estudando:
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" width="40" />
+
 </div>
 
 ---
